@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 🌱 I’m currently learning Mobile Development with Java
 
